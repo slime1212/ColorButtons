@@ -1,0 +1,44 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.rfix {
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+}
+
+#red {
+    background-color: red;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#default {
+    width: 200px;
+    height: 100px;
+}
+
+/* Done! */
